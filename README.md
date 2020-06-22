@@ -45,3 +45,5 @@ python Spider.py webvpn
 ![2](/pic/2.png)
 
 之后浏览器会重复发送请求直到选课成功。
+
+欢迎大佬们帮忙改进。
