@@ -1,4 +1,4 @@
-# SZU_Rush_for_Lessns
+# SZU_Rush_for_Lessons
 
 
 #### 一个非常简单的，基于python-selenium的深大抢课脚本，纯靠控制浏览器重复点击发送请求。
@@ -14,7 +14,7 @@ python环境自己解决
 然后clone一下：
 
 ```bash
-git clone https://github.com/chimaoshu/SZU_Rush_for_Lessns.git
+git clone https://github.com/chimaoshu/SZU_Rush_for_Lessons.git
 ```
 
 然后安装两个模块
