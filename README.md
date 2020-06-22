@@ -37,6 +37,9 @@ python Spider.py vpn
 python Spider.py webvpn
 ```
 ##### 对应两种模式。
+
+##### 记得把代码里面的USERNAME和PASSWORD改成你自己的。
+
 之后照着控制台的提醒做就好了，需要f12，然后查看并复制课程id，输入后按enter。
 ![1](/pic/1.png)
 
